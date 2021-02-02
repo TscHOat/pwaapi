@@ -1,83 +1,83 @@
 {"products":
 [{
   "id": 1,
-  "nama": "Marabou stork",
-  "cetegory": "Puce"
+  "nama": "Green-backed heron",
+  "category": "Mauv"
 }, {
   "id": 2,
-  "nama": "Wallaby, whip-tailed",
-  "cetegory": "Purple"
+  "nama": "Greater roadrunner",
+  "category": "Pink"
 }, {
   "id": 3,
-  "nama": "Cormorant, large",
-  "cetegory": "Aquamarine"
+  "nama": "Squirrel, nelson ground",
+  "category": "Green"
 }, {
   "id": 4,
-  "nama": "Cobra (unidentified)",
-  "cetegory": "Pink"
+  "nama": "Macaw, red and blue",
+  "category": "Goldenrod"
 }, {
   "id": 5,
-  "nama": "Lapwing, southern",
-  "cetegory": "Fuscia"
+  "nama": "Otter, brazilian",
+  "category": "Aquamarine"
 }, {
   "id": 6,
-  "nama": "White-rumped vulture",
-  "cetegory": "Turquoise"
+  "nama": "Southern boubou",
+  "category": "Goldenrod"
 }, {
   "id": 7,
-  "nama": "Hornbill, southern ground",
-  "cetegory": "Yellow"
+  "nama": "Tern, white-winged black",
+  "category": "Khaki"
 }, {
   "id": 8,
-  "nama": "Snake, tiger",
-  "cetegory": "Purple"
+  "nama": "Albatross, waved",
+  "category": "Fuscia"
 }, {
   "id": 9,
-  "nama": "Asiatic wild ass",
-  "cetegory": "Violet"
+  "nama": "Wallaby, river",
+  "category": "Mauv"
 }, {
   "id": 10,
-  "nama": "Squirrel, golden-mantled ground",
-  "cetegory": "Fuscia"
+  "nama": "Red squirrel",
+  "category": "Pink"
 }, {
   "id": 11,
-  "nama": "Giraffe",
-  "cetegory": "Orange"
+  "nama": "Waterbuck, common",
+  "category": "Green"
 }, {
   "id": 12,
-  "nama": "Kingfisher, malachite",
-  "cetegory": "Maroon"
+  "nama": "Argalis",
+  "category": "Teal"
 }, {
   "id": 13,
-  "nama": "Kudu, greater",
-  "cetegory": "Teal"
+  "nama": "Leopard",
+  "category": "Orange"
 }, {
   "id": 14,
-  "nama": "Macaque, bonnet",
-  "cetegory": "Yellow"
+  "nama": "Dusky rattlesnake",
+  "category": "Red"
 }, {
   "id": 15,
-  "nama": "Woylie",
-  "cetegory": "Yellow"
+  "nama": "Skimmer, four-spotted",
+  "category": "Red"
 }, {
   "id": 16,
-  "nama": "Bear, sloth",
-  "cetegory": "Pink"
+  "nama": "Lesser mouse lemur",
+  "category": "Goldenrod"
 }, {
   "id": 17,
-  "nama": "Bohor reedbuck",
-  "cetegory": "Violet"
+  "nama": "Giant armadillo",
+  "category": "Aquamarine"
 }, {
   "id": 18,
-  "nama": "Flamingo, chilean",
-  "cetegory": "Turquoise"
+  "nama": "Jaguar",
+  "category": "Crimson"
 }, {
   "id": 19,
-  "nama": "Crested barbet",
-  "cetegory": "Pink"
+  "nama": "Falcon, prairie",
+  "category": "Teal"
 }, {
   "id": 20,
-  "nama": "Pied kingfisher",
-  "cetegory": "Aquamarine"
+  "nama": "Common green iguana",
+  "category": "Maroon"
 }]
 }
