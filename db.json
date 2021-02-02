@@ -1,0 +1,83 @@
+{"products":
+[{
+  "id": 1,
+  "nama": "Marabou stork",
+  "cetegory": "Puce"
+}, {
+  "id": 2,
+  "nama": "Wallaby, whip-tailed",
+  "cetegory": "Purple"
+}, {
+  "id": 3,
+  "nama": "Cormorant, large",
+  "cetegory": "Aquamarine"
+}, {
+  "id": 4,
+  "nama": "Cobra (unidentified)",
+  "cetegory": "Pink"
+}, {
+  "id": 5,
+  "nama": "Lapwing, southern",
+  "cetegory": "Fuscia"
+}, {
+  "id": 6,
+  "nama": "White-rumped vulture",
+  "cetegory": "Turquoise"
+}, {
+  "id": 7,
+  "nama": "Hornbill, southern ground",
+  "cetegory": "Yellow"
+}, {
+  "id": 8,
+  "nama": "Snake, tiger",
+  "cetegory": "Purple"
+}, {
+  "id": 9,
+  "nama": "Asiatic wild ass",
+  "cetegory": "Violet"
+}, {
+  "id": 10,
+  "nama": "Squirrel, golden-mantled ground",
+  "cetegory": "Fuscia"
+}, {
+  "id": 11,
+  "nama": "Giraffe",
+  "cetegory": "Orange"
+}, {
+  "id": 12,
+  "nama": "Kingfisher, malachite",
+  "cetegory": "Maroon"
+}, {
+  "id": 13,
+  "nama": "Kudu, greater",
+  "cetegory": "Teal"
+}, {
+  "id": 14,
+  "nama": "Macaque, bonnet",
+  "cetegory": "Yellow"
+}, {
+  "id": 15,
+  "nama": "Woylie",
+  "cetegory": "Yellow"
+}, {
+  "id": 16,
+  "nama": "Bear, sloth",
+  "cetegory": "Pink"
+}, {
+  "id": 17,
+  "nama": "Bohor reedbuck",
+  "cetegory": "Violet"
+}, {
+  "id": 18,
+  "nama": "Flamingo, chilean",
+  "cetegory": "Turquoise"
+}, {
+  "id": 19,
+  "nama": "Crested barbet",
+  "cetegory": "Pink"
+}, {
+  "id": 20,
+  "nama": "Pied kingfisher",
+  "cetegory": "Aquamarine"
+}]
+}
